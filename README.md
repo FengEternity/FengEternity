@@ -13,7 +13,10 @@
 ## 慌于嬉
 [![FengEternity's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FengEternity&theme=xcode)](https://github.com/FengEternity)
 ## 行成于思
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FengEternity)](https://git.io/streak-stats)![](https://stats.justsong.cn/api/csdn?id=weixin_62602550)
+希望能做到日更吧 \
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FengEternity)](https://git.io/streak-stats)
+在 CSDN 上的一些乱七八糟的东西 \
+![](https://stats.justsong.cn/api/csdn?id=weixin_62602550)
 
 
 ## 毁于随
