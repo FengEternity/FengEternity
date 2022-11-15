@@ -1,5 +1,10 @@
 # 一些自我言说
-那就做一个内卷小能手吧
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=既然没人看见;那就偷偷做个内卷小能手吧&center=true&size=27">
+  </a>
+</h1>
+
 # My Blog
 点击开启传送门:       [**Monty_L: 往后余生如若没有炬火,我便是唯一的光**](http://onlyfeng.top/)
 # Myhub Statistic
