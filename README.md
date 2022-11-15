@@ -16,9 +16,6 @@
 ### 希望能做到日更吧
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FengEternity)](https://git.io/streak-stats)
 
-### 在 CSDN 上的一些乱七八糟的东西
-![](https://stats.justsong.cn/api/csdn?id=weixin_62602550)
-
 
 ## 毁于随
 <h1 align="center">
