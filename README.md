@@ -1,5 +1,19 @@
 # 一些自我言说
-
+那就做一个内卷小能手吧
+# My Blog
+点击开启传送门:       [**Monty_L: 往后余生如若没有炬火,我便是唯一的光**](http://onlyfeng.top/)
 # Myhub Statistic
+## 业精于勤
+[![FengEternity's GitHub stats](https://github-readme-stats.vercel.app/api?username=FengEternity)](https://github.com/anuraghazra/github-readme-stats)![FengEternity's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FengEternity&layout=compact&hide_border=true&langs_count=10)
+## 慌于嬉
+[![FengEternity's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FengEternity&theme=xcode)](https://github.com/FengEternity)
+## 行成于思
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FengEternity)](https://git.io/streak-stats)![](https://stats.justsong.cn/api/csdn?id=weixin_62602550)
 
-![Metrics](https://metrics.lecoq.io/FengEternity?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+
+## 毁于随
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=往后余生如若没有炬火;我便是唯一的光&center=true&size=27">
+  </a>
+</h1>
