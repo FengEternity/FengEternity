@@ -13,8 +13,7 @@
 ## 慌于嬉
 [![FengEternity's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FengEternity&theme=xcode)](https://github.com/FengEternity)
 ## 行成于思
-### 希望能做到日更吧
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FengEternity)](https://git.io/streak-stats)
+
 
 
 ## 毁于随
