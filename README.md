@@ -13,7 +13,11 @@
 ## 慌于嬉
 [![FengEternity's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FengEternity&theme=xcode)](https://github.com/FengEternity)
 ## 行成于思
-
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=非学无以明志&center=true&size=27">
+  </a>
+</h1>
 
 
 ## 毁于随
