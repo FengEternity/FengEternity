@@ -18,6 +18,7 @@
 </h1>
 
 ## 行成于思
+
 <h1 align="center">
   <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=非学无以明志&center=true&size=27">
