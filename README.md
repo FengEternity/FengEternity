@@ -10,25 +10,3 @@
 # Myhub Statistic
 ## 业精于勤
 [![FengEternity's GitHub stats](https://github-readme-stats.vercel.app/api?username=FengEternity)](https://github.com/anuraghazra/github-readme-stats)![FengEternity's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FengEternity&layout=compact&hide_border=true&langs_count=10)
-## 慌于嬉
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=无事之事&center=true&size=27">
-  </a>
-</h1>
-
-## 行成于思
-
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=非学无以明志&center=true&size=27">
-  </a>
-</h1>
-
-
-## 毁于随
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=往后余生如若没有炬火;我便是唯一的光&center=true&size=27">
-  </a>
-</h1>
