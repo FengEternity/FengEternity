@@ -17,9 +17,10 @@ const myProfile = {
   tools: [Visual Studio, Git, CMake, CLion],
   interests: ["Multithreading", "Network Programming", "Image Processing", "Deep Learning"],
   techCommunities: {
-                        member: "NJUPT SAST",
+                        Member: "NJUPT SAST",
+                        Developer: "FileTAG"
                       },
-  challenge: "Frantically coding away, trying to "package" myself for the job market!"
+  challenge: "Frantically coding away, trying to package myself for the job market!"
 }
 ```
 
