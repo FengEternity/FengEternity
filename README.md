@@ -1,5 +1,5 @@
 <h2> Hi, I'm Montee! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://blog-imges-1313931661.cos.ap-nanjing.myqcloud.com/monty_lee.png" width="230">
+<!-- <img align='right' src="https://blog-imges-1313931661.cos.ap-nanjing.myqcloud.com/monty_lee.png" width="230"> -->
 <p><em>NetWork Enginner at <a href="http://www.njupt.edu.cn"> NJUPT</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>My BLOG: <a href="https://www.montylee.cn">Thought&&Record</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
